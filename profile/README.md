@@ -9,4 +9,4 @@ Welcome to [palmares](https://github.com/palmaresHQ/palmares)!
 
 We are boring, but we are cool. We are cool, but we sometimes like to get bored. 🌈
 
-Now let's go, let's go put Javascript where it doesn't belong! And let's discover, together, why {} + [] is 0.
+Now let's go, let's go put Javascript where it doesn't belong! And let's discover, together, why the hell {} + [] is 0.
